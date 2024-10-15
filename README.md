@@ -40,16 +40,3 @@ Dự án này là một ứng dụng phân loại email rác dựa trên bộ d�
 1. Mở ứng dụng.
 2. Nhập nội dung email vào ô văn bản.
 3. Nhấn nút "Phân loại" để nhận phản hồi về email đó (rác hoặc không rác).
-
-## Đóng góp
-
-Nếu bạn muốn đóng góp cho dự án này, vui lòng tạo một pull request hoặc mở một issue để thảo luận về những thay đổi bạn muốn thực hiện.
-
-## Liên hệ
-
-- **Nguyễn Duy** - [ndtduy](https://github.com/ndtduy)
-- Email: ndtduy@example.com
-
-## Giấy phép
-
-Dự án này được cấp phép theo [Giấy phép MIT](LICENSE).
