@@ -31,9 +31,3 @@ Trong đồ án này, chúng tôi xây dựng một giao diện ứng dụng đ�
     ```bash
     python enron_spam_app.py
     ```
-
-## Cách sử dụng
-
-1. Mở ứng dụng.
-2. Nhập nội dung email vào ô văn bản.
-3. Nhấn nút "Phân loại" để nhận phản hồi về email đó (rác hoặc không rác).
